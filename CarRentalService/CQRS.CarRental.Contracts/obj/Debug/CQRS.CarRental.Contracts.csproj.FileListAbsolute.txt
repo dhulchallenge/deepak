@@ -1,0 +1,4 @@
+D:\CarRentalSystem\CarRentalService\CQRS.CarRental.Contracts\bin\Debug\CQRS.CarRental.Contracts.dll
+D:\CarRentalSystem\CarRentalService\CQRS.CarRental.Contracts\bin\Debug\CQRS.CarRental.Contracts.pdb
+D:\CarRentalSystem\CarRentalService\CQRS.CarRental.Contracts\obj\Debug\CQRS.CarRental.Contracts.dll
+D:\CarRentalSystem\CarRentalService\CQRS.CarRental.Contracts\obj\Debug\CQRS.CarRental.Contracts.pdb

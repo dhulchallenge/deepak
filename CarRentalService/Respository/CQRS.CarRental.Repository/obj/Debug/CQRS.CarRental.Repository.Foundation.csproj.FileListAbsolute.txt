@@ -1,0 +1,13 @@
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\CQRS.CarRental.Repository.Foundation.dll.config
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\CQRS.CarRental.Repository.Foundation.dll
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\CQRS.CarRental.Repository.Foundation.pdb
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\EntityFramework.dll
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\EntityFramework.xml
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\obj\Debug\CQRS.CarRental.Repository.Foundation.dll
+D:\CarRentalSystem\CarRentalService\Respository\CQRS.CarRental.Repository\obj\Debug\CQRS.CarRental.Repository.Foundation.pdb
